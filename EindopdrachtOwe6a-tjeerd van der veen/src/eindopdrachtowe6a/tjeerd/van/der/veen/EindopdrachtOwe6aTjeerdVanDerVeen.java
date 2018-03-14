@@ -1,6 +1,6 @@
 package eindopdrachtowe6a.tjeerd.van.der.veen;
 
-
+//kleine verrandering
 import java.io.*;
 import java.net.*;
 import java.nio.channels.*;
